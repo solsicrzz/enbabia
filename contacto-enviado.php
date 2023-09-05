@@ -43,7 +43,7 @@
 
             <nav class="enlaces-header2">
 
-                <p class="logo"><a href="index.html"><img src="img/logo-enbabia-negro.png" alt="Enbabia"></a></p>
+                <p class="logo"><a href="index.html"><img src="img/Logo-01.svg" width="160" alt="Enbabia"></a></p>
 
                 <ul class="menu menu-principal">
                     <li><a href="conocenos.html#conocenos">Conocenos</a></li>
@@ -318,7 +318,7 @@
 
             <div class="logo-footer">
 
-                <img src="img/logo-enbabia-negro.png" alt="Enbabia">
+                <img src="img/Logo-01.svg" width="160" alt="Enbabia">
 
             </div>
 
